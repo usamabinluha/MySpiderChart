@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
 
     ArrayList<Entry> yVals1;
     ArrayList<Entry> yVals2;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
